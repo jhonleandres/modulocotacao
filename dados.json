@@ -1,0 +1,90 @@
+[
+  {
+    "EMPRESA_ID": "11.111.111/0001-00",
+    "RAZAO_SOCIAL": "SUPERMECADO FULANO LTDA",
+    "NOME_FANTASIA": "SUPERMECADO FULANO",
+    "COTACAO_ID": "39",
+    "CREATED": "28/09/2021 08:00:00",
+    "DEADLINE": "29/09/2021 08:00:00",
+    "_DATA": [
+      {
+        "ID": "91eb8efe-785b-46eb-8a8f-db244da072e5",
+        "FORNECEDOR_ID": "22.222.111/0001-00",
+        "FORNECEDOR_RAZAO_SOCIAL": "NOME DO FORNECEDOR",
+        "FORNECEDOR_EMAIL": "FORNECEDOR_1@GMAIL.COM",
+        "FORNECEDOR_PRAZO_PAGAMENTO": "30",
+        "FORNECEDOR_PREVISAO_ENTREGA": "01/10/2021",
+        "FORNECEDOR_GARANTIA": "SEM GARANTIA",
+        "FORNECEDOR_FRETE": "SEM FRETE",
+        "FORNECEDOR_OBSERVACAO": "SEM OBSERVAÇÃO",
+        "FORNECEDOR_ITENS": [
+          {
+            "CODIGO": 7620,
+            "CODIGO_ORIGINAL": "",
+            "CODIGO_FABRICA": "",
+            "DESCRICAO": "ABAMEX 01LT RV",
+            "UNIDADE": "LT",
+            "EMBALAGEM": 1,
+            "QUANTIDADE": 2481,
+            "PRECO_UNITARIO": 10.0,
+            "IPI": "",
+            "ICMS": "",
+            "VLR_ST": ""
+          },
+          {
+            "CODIGO": 8129,
+            "CODIGO_ORIGINAL": "",
+            "CODIGO_FABRICA": "",
+            "DESCRICAO": "ABATHOR 500 ML",
+            "UNIDADE": "UN",
+            "EMBALAGEM": 1,
+            "QUANTIDADE": 11,
+            "PRECO_UNITARIO": 1.0,
+            "IPI": "",
+            "ICMS": "",
+            "VLR_ST": ""
+          }
+        ]
+      },
+      {
+        "ID": "20fa743f-1528-41df-a893-c4debc68ad80",
+        "FORNECEDOR_ID": "33.333.111/0001-00",
+        "FORNECEDOR_RAZAO_SOCIAL": "NOME DO FORNECEDOR",
+        "FORNECEDOR_EMAIL": "FORNECEDOR_2@GMAIL.COM",
+        "FORNECEDOR_PRAZO_PAGAMENTO": "30",
+        "FORNECEDOR_PREVISAO_ENTREGA": "01/10/2021",
+        "FORNECEDOR_GARANTIA": "SEM GARANTIA",
+        "FORNECEDOR_FRETE": "SEM FRETE",
+        "FORNECEDOR_OBSERVACAO": "SEM OBSERVAÇÃO",
+        "FORNECEDOR_ITENS": [
+          {
+            "CODIGO": 7620,
+            "CODIGO_ORIGINAL": "",
+            "CODIGO_FABRICA": "",
+            "DESCRICAO": "ABAMEX 01LT RV",
+            "UNIDADE": "LT",
+            "EMBALAGEM": 1,
+            "QUANTIDADE": 2481,
+            "PRECO_UNITARIO": 10.0,
+            "IPI": "",
+            "ICMS": "",
+            "VLR_ST": ""
+          },
+          {
+            "CODIGO": 8129,
+            "CODIGO_ORIGINAL": "",
+            "CODIGO_FABRICA": "",
+            "DESCRICAO": "ABATHOR 500 ML",
+            "UNIDADE": "UN",
+            "EMBALAGEM": 1,
+            "QUANTIDADE": 11,
+            "PRECO_UNITARIO": 1.0,
+            "IPI": "",
+            "ICMS": "",
+            "VLR_ST": ""
+          }
+        ]
+      }
+    ]
+  }
+]
